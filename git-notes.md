@@ -1,1 +1,2 @@
-###Stat679 Lecture notes
+###**Stat679 Lecture notes**
+#addition random line
